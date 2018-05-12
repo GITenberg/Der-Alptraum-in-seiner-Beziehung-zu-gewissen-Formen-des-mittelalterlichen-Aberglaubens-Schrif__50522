@@ -1,15 +1,21 @@
 _repo: Der-Alptraum-in-seiner-Beziehung-zu-gewissen-Formen-des-mittelalterlichen-Aberglaubens-Schrif__50522
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Sachs, E. H.
     gutenberg_agent_id: '45955'
     url: http://www.gutenberg.org/2009/agents/45955
+covers:
+- cover_type: archival
+  image_path: 50522-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Jones, Ernest
     gutenberg_agent_id: '45954'
     url: http://www.gutenberg.org/2009/agents/45954
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50522#Der-Alptraum-in-seiner-Beziehung-zu-gewissen-Formen-des-mittelalterlichen-Aberglaubens-Schrif_
 gutenberg_issued: '2015-11-21'
 gutenberg_type: Text
 identifiers:
